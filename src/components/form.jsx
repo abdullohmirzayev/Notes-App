@@ -14,6 +14,7 @@ const Form = () => {
                         <textarea name='desc' id='desc' rows='3' className='form-control' placeholder='Enter Your Description'></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary py-3 px-5">Add Notes</button>
+                    
                 </form>
             </div>
         </>
